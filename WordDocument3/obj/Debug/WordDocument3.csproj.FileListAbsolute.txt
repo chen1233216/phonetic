@@ -1,0 +1,14 @@
+D:\Project\VS\WordDocument3\WordDocument3\bin\Debug\WordDocument3.dll
+D:\Project\VS\WordDocument3\WordDocument3\bin\Debug\WordDocument3.pdb
+D:\Project\VS\WordDocument3\WordDocument3\bin\Debug\WordDocument3.dll.manifest
+D:\Project\VS\WordDocument3\WordDocument3\bin\Debug\WordDocument3.vsto
+D:\Project\VS\WordDocument3\WordDocument3\bin\Debug\WordDocument3.docx
+D:\Project\VS\WordDocument3\WordDocument3\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Project\VS\WordDocument3\WordDocument3\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.dll
+D:\Project\VS\WordDocument3\WordDocument3\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+D:\Project\VS\WordDocument3\WordDocument3\bin\Debug\Microsoft.Office.Tools.Word.v4.0.Utilities.xml
+D:\Project\VS\WordDocument3\WordDocument3\obj\Debug\WordDocument3.csprojResolveAssemblyReference.cache
+D:\Project\VS\WordDocument3\WordDocument3\obj\Debug\WordDocument3.Properties.Resources.resources
+D:\Project\VS\WordDocument3\WordDocument3\obj\Debug\WordDocument3.csproj.GenerateResource.Cache
+D:\Project\VS\WordDocument3\WordDocument3\obj\Debug\WordDocument3.dll
+D:\Project\VS\WordDocument3\WordDocument3\obj\Debug\WordDocument3.pdb
